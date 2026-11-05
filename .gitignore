@@ -23,3 +23,8 @@ venv/
 # Environment / secrets
 .env
 .env.*
+
+# Working notes and data files (kept local only)
+*.md
+*.json
+*.txt
