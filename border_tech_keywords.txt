@@ -1,0 +1,369 @@
+# border_control_technology_keywords v1.0 (2026-11-03)
+# apply to: headline + first 50 words. rule: (A AND (B OR C)) OR D. whole-word, case-insensitive
+# lines marked [cs] are case-sensitive acronyms. C is optional; C_broad_extra is upper bound only. E counts only with A.
+
+## A_border
+border
+borders
+frontier
+frontiers
+customs
+immigration
+immigrant
+immigrants
+migrant
+migrants
+migration
+asylum
+refugee
+refugees
+visa
+visas
+passport
+passports
+checkpoint
+checkpoints
+port of entry
+ports of entry
+airport
+airports
+seaport
+seaports
+port security
+border patrol
+border force
+border guard
+border guards
+border police
+border agency
+border agent
+border agents
+border officer
+border officers
+border officials
+coast guard
+coastguard
+frontex
+homeland security
+smuggling
+smuggler
+smugglers
+smuggled
+trafficking
+trafficker
+traffickers
+trafficked
+traveller
+travellers
+traveler
+travelers
+passenger
+passengers
+aviation security
+deportation
+deportations
+deported
+deportee
+deportees
+CBP [cs]
+DHS [cs]
+
+## B_technology
+biometric
+biometrics
+surveillance
+facial recognition
+face recognition
+facial-recognition
+drone
+drones
+unmanned
+scanner
+scanners
+scanning
+scanned
+scan
+scans
+e-gate
+e-gates
+egate
+egates
+automated gate
+automated gates
+automated border control
+automated passport control
+smart gate
+smart gates
+smartgate
+automatic gate
+automatic gates
+self-service gate
+self-service gates
+self-service kiosk
+self-service kiosks
+camera
+cameras
+closed-circuit
+closed circuit
+detector
+detectors
+detection
+e-passport
+e-passports
+epassport
+epassports
+biometric passport
+biometric passports
+electronic passport
+electronic passports
+chip passport
+chipped passport
+radar
+radars
+fingerprint
+fingerprints
+fingerprinting
+finger print
+finger prints
+palm print
+palm prints
+palmprint
+artificial intelligence
+machine learning
+iris
+retina
+retinal
+sensor
+sensors
+tower
+towers
+id card
+id cards
+identity card
+identity cards
+smart card
+smart cards
+national id card
+national id cards
+screening
+screener
+screeners
+smart border
+smart borders
+smart-border
+e-border
+e-borders
+eborders
+digital border
+digital borders
+thermal
+infrared
+infra-red
+night vision
+night-vision
+kiosk
+kiosks
+app
+apps
+database
+databases
+tracking
+microchip
+microchips
+chip
+chips
+x-ray
+x-rays
+xray
+xrays
+watch list
+watchlist
+watch lists
+watchlists
+no-fly
+no fly list
+e-visa
+e-visas
+evisa
+online visa
+online visas
+health code
+health codes
+contact tracing
+contact-tracing
+vaccine passport
+vaccine passports
+qr code
+qr codes
+health pass
+health passes
+health certificate
+health certificates
+satellite
+satellites
+metal detector
+metal detectors
+explosive detection
+explosives detection
+explosive trace
+explosives trace
+licence plate
+licence plates
+license plate
+license plates
+number plate
+number plates
+virtual fence
+virtual wall
+smart wall
+smart fence
+electronic fence
+identification
+identity verification
+authenticate
+authentication
+authenticated
+imaging
+registered traveller
+registered travellers
+registered traveler
+registered travelers
+trusted traveller
+trusted travellers
+trusted traveler
+trusted travelers
+passenger name record
+passenger name records
+passenger data
+algorithm
+algorithms
+software
+cyber
+cybersecurity
+cyber security
+cyberattack
+cyberattacks
+cybercrime
+AI [cs]
+UAV [cs]
+UAVs [cs]
+UAS [cs]
+CCTV [cs]
+GPS [cs]
+RFID [cs]
+ANPR [cs]
+PNR [cs]
+
+## C_generic_technology
+technology
+technologies
+technological
+high-tech
+hi-tech
+tech
+automated
+automation
+automatic
+automatically
+digital
+digitisation
+digitization
+digitised
+digitized
+digitising
+digitizing
+electronic
+electronically
+electronics
+computerised
+computerized
+computer
+smart
+monitoring
+equipment
+device
+devices
+## C_broad_extra
+security
+system
+systems
+data
+
+## D_named_systems
+Frontex
+Eurosur
+Entry/Exit System
+Entry-Exit System
+ETIAS
+Eurodac
+Schengen Information System
+SIS II
+Visa Information System
+Smart Borders
+eu-LISA
+eu LISA
+e-Borders
+eBorders
+US-VISIT
+US VISIT
+SBInet
+SBI-net
+Secure Border Initiative
+Integrated Fixed Tower
+Integrated Fixed Towers
+Automated Targeting System
+Secure Flight
+E-Verify
+Global Entry
+SENTRI
+CBP One
+Container Security Initiative
+C-TPAT
+EES [cs]
+IDENT [cs]
+NEXUS [cs]
+ESTA [cs]
+SIVE [cs]
+PISCES [cs]
+MIDAS [cs]
+
+## E_vendors
+Elbit
+Israel Aerospace Industries
+Magal
+Thales
+IDEMIA
+Morpho
+MorphoTrust
+MorphoTrak
+Safran
+Gemalto
+Veridos
+NEC
+Vision-Box
+Vision Box
+SITA
+Cognitec
+FLIR
+Rapiscan
+Smiths Detection
+OSI Systems
+Securiport
+Huawei
+Hikvision
+Dahua
+Nuctech
+Palantir
+Anduril
+BAE Systems
+Airbus
+Leonardo
+Indra
+Accenture
+Unisys
+L3Harris
+Leidos
+Raytheon
+Lockheed Martin
+Northrop Grumman
+General Dynamics
